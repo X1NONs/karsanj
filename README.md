@@ -55,13 +55,10 @@ text
 
 ### macOS / Linux
 git clone https://github.com/X1NONs/karsanj
-
 cd karsanj
-
 python3 karsanj_bruteforce.py
 
-text
-
+paste these commands in your terminal / console
 ---
 
 ## Configuration ❗️
@@ -79,9 +76,11 @@ You may need to adjust timing and ranges based on your environment.
 
 ## Notes
 
-- Results may vary between users.
-- Behavior depends on network conditions and server responses.
-
+the code is currently in beta 
+please report any problems you find
+and feelfree to share your ideas to make it better
+the main code will be posted soon 
+but for now contact me for acsess 
 ---
 
 ## License
