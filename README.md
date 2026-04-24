@@ -9,6 +9,7 @@ if you got any findings or other ways on karsanj feel free to contact me for wor
 
 # main use: 
 "no dependencys needed just base python"
+  
   #windows
 
 
