@@ -6,7 +6,8 @@ this piece of code is able to bypass all of that and br*tefo*rce it pretty fast
 you must change some of the code based on your location and internet speed 
 please report any issues you have with the code or ideas 
 if you got any findings or other ways on karsanj feel free to contact me for working together and make students  🆓
-#main use: 
+
+# main use: 
 "no dependencys needed just base python"
   #windows
 
@@ -17,4 +18,4 @@ if you got any findings or other ways on karsanj feel free to contact me for wor
   #linux
 
 
-#configuring and tuning ❗️
+# configuring and tuning ❗️
