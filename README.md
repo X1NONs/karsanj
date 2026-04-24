@@ -19,6 +19,13 @@ git clone https://github.com/X1NONs/karsanj
 cd karsanj
 python3 karsanj_bruteforce.py
 
- # linux  
+Paste this commands in mac terminal 
+
+  # linux  
+git clone https://github.com/X1NONs/karsanj
+cd karsanj
+python3 karsanj_bruteforce.py
+
+Paste this commands in your linux console / terminal 
 
 # configuring and tuning ❗️
