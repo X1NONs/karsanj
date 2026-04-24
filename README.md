@@ -1,26 +1,30 @@
 # Karsanj Account Finder ❗️
 
-Research / educational project.
+Research / educational project.  
+Only requires **pure Python** — no external libraries or dependencies.
 
 ---
 
-## ❗️ Disclaimer
+## Disclaimer
 
-This project is provided **for educational and research purposes only**.
+This project is provided for educational and research purposes only.
 
-- The author is **not responsible for misuse** of this code.
-- You are **fully responsible** for how you use it.
-- Do **not** use this on systems you do not own or do not have permission to test.
+- The author is not responsible for any misuse of this code.
+- You are fully responsible for how you use it.
+- Do NOT test this on systems you do not own or do not have permission to analyze.
 
 ---
 
 ## Overview
 
-Minimal Python script related to authentication testing on Karsanj‑based systems.
+Minimal Python script related to authentication behavior testing on Karsanj‑based systems.
 
-- No external dependencies
+Features:
+
+- Pure Python (no dependencies)
 - Works on Windows, macOS, and Linux
 - Simple structure and easy to run
+- Lightweight and configuration‑friendly
 
 ---
 
@@ -29,58 +33,69 @@ Minimal Python script related to authentication testing on Karsanj‑based syste
 - Python 3.x
 - Internet connection
 
+No additional packages or modules required.
+
 ---
 
 ## Installation
 
 ### Windows (No Git)
 
-1. Go to the repository page
+1. Open the repository page:
 https://github.com/X1NONs/karsanj
-
-text
 
 2. Click **Code → Download ZIP**
 
 3. Extract the file
 
-4. Open **Command Prompt / PowerShell**
+4. Open **Command Prompt** or **PowerShell**
+
+5. Navigate to the extracted folder:
+
 cd karsanj
 
-python karsanj_bruteforce.py
+6. Run the script:
 
-text
+python karsanj_bruteforce.py
 
 ---
 
 ### macOS / Linux
+
+Paste the following commands in your terminal:
+
 git clone https://github.com/X1NONs/karsanj
 cd karsanj
 python3 karsanj_bruteforce.py
 
-paste these commands in your terminal / console
 ---
 
-## Configuration ❗️
+## Configuration
 
 The script may behave differently depending on:
 
-- internet speed  
-- network latency  
-- ISP routing  
-- VPN / proxy usage  
+- Internet speed
+- Network latency
+- ISP routing
+- VPN / proxy usage
 
-You may need to adjust timing and ranges based on your environment.
+If needed, adjust:
+
+- Timing values
+- Delay settings
+- Range sizes
+
+based on your network stability and environment.
 
 ---
 
 ## Notes
 
-the code is currently in beta 
-please report any problems you find
-and feelfree to share your ideas to make it better
-the main code will be posted soon 
-but for now contact me for acsess 
+- The project is currently in beta.
+- Please report any issues or unexpected behavior.
+- You are welcome to share ideas to improve performance or stability.
+- Full main code will be released soon — contact the author for early access.
+
 ---
 
 ## License
