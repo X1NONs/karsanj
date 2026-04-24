@@ -10,13 +10,15 @@ if you got any findings or other ways on karsanj feel free to contact me for wor
 # main use: 
 "no dependencys needed just base python"
   
-  #windows
+  # windows
 
 
-  #macos
+  # macos
+```bash
+git clone https://github.com/X1NONs/karsanj
+cd karsanj
+python3 karsanj_bruteforce.py
 
-
-  #linux
-
+ # linux  
 
 # configuring and tuning ❗️
